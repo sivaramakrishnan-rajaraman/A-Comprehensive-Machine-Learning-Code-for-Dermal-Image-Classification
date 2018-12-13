@@ -12,9 +12,14 @@ Apart from the results published, here, we performed a comprehensive study of th
 # Prerequisites:
 
 Python 3.5
+
 Keras 2.2.0
+
 Tensorflow-GPU 1.9.0 
+
 Scikit-Learn
+
+# Acknowledgment
 
 We believe the code would be of good value for the research community and request to kindly cite our study:
 
