@@ -18,4 +18,4 @@ Scikit-Learn
 
 We believe the code would be of good value for the research community and request to kindly cite our study:
 
-# T. R. Thamizhvani, Suganthi Lakshmanan & R. Sivaramakrishnan (2018). Mobile application-based computer-aided diagnosis of skin tumours from dermal images, The Imaging Science Journal, 66:6, 382-391, DOI: 10.1080/13682199.2018.1492682
+#T. R. Thamizhvani, Suganthi Lakshmanan & R. Sivaramakrishnan (2018). Mobile application-based computer-aided diagnosis of skin tumours from dermal images, The Imaging Science Journal, 66:6, 382-391, DOI: 10.1080/13682199.2018.1492682
